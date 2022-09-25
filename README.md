@@ -19,4 +19,4 @@ Please refer to the `scripts.sh` for the command line to train and test models o
 The evaluation score will be stored in `[{experiment_name}/meta_logs/saved_csvs/ConcatenateEmbeddings_accuracies_normalized_compared_to_self_GlobalEmbeddingSpaceTester_level_0_TEST.csv]`. Please refer to [powerful_benchmarker](https://kevinmusgrave.github.io/powerful-benchmarker/#experiment-folder-format) for more details.
 
 ## Quantify results
-The results have been reported in our paper. The training checkpoint can be downloaded from 
+The results have been reported in our paper. The training checkpoint can be downloaded from https://drive.google.com/file/d/1OgETpMG8PA2vxzbNxDcAfpMLdZrNuXUI/view?usp=sharing
